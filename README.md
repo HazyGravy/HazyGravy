@@ -15,7 +15,7 @@
 
 ---
 
-### </> Tech Arsenal
+### </> Arsenal
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,js,ts,git,github,linux,html,css,vscode" />
@@ -51,7 +51,7 @@
 
 ---
 
-### 🧱 Mission Log
+### 🧱 Log
 
 - Developing a comprehensive lexicon of programming languages  
 - Penetration testing and cyber security  
