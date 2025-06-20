@@ -15,7 +15,7 @@
 
 ---
 
-### </> Arsenal
+### </> Coding
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,js,ts,git,github,linux,html,css,vscode" />
@@ -38,19 +38,6 @@
 
 ---
 
-### 🎖️ Top Repositories
-
-<p align="center">
-  <a href="https://github.com/HazyGravy/elite-ui-kit">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HazyGravy&repo=elite-ui-kit&theme=merko&hide_border=true"/>
-  </a>
-  <a href="https://github.com/HazyGravy/battle-bot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HazyGravy&repo=battle-bot&theme=merko&hide_border=true"/>
-  </a>
-</p>
-
----
-
 ### 🧱 Log
 
 - Developing a comprehensive lexicon of programming languages  
@@ -66,7 +53,7 @@
     <img src="https://img.shields.io/badge/GitHub%20Base-0D1117?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:skilledgravy@yahoo.com">
-    <img src="https://img.shields.io/badge/Encrypted%20Comms-DB4437?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/%20Comms-DB4437?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://hazygravy.neocities.org/">
     <img src="https://img.shields.io/badge/Intel%20Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -77,12 +64,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=HazyGravy&color=red" alt="Intel Scans (Profile Views)"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/RANK%20STATUS-CODE%20COMMANDER-FF4F4F?style=for-the-badge&logo=codeforces&logoColor=white" />
-  <img src="https://img.shields.io/badge/BATTALION-FULL%20STACK%20OPS-blue?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/INTEL%20LEVEL-TOP%201%25-lightgrey?style=for-the-badge&logo=googleanalytics&logoColor=white" />
 </p>
 
 <p align="center">
