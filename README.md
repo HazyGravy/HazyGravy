@@ -8,14 +8,7 @@
 
 ---
 
-### 🪖 Briefing
-
-- Specializing in tech reconnaissance, automation raids, and frontend/backend development  
-- Focus: Language knowledge, development, and a clean syntax
-
----
-
-### </> Coding
+### </> Programming
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,js,ts,git,github,linux,html,css,vscode" />
@@ -41,8 +34,9 @@
 ### 🧱 Log
 
 - Developing a comprehensive lexicon of programming languages  
-- Penetration testing and cyber security  
-- Application development pertaining to mainstream technology and devices
+- Penetration testing and cyber security
+- Focus: Language knowledge, development, and a clean syntax
+- Frontend/backend development
 
 ---
 
