@@ -11,13 +11,19 @@
 ### </> Programming
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,ts,git,github,linux,html,css,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,js,java,python,git,github,linux,raspberrypi" />
 </p>
 
 ### </> Still in Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,docker,tailwind" />
+  <img src="https://skillicons.dev/icons?i=c,cs,cpp,css,vscode,visualstudio,react,nextjs,nodejs,docker,tailwind" />
+</p>
+
+### </> Other
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ps,ae,redhat,ubuntu,kali,windows" />
 </p>
 
 ---
