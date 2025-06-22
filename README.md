@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech&size=30&pause=1000&color=d35400&center=true&vCenter=true&multiline=true&width=435&lines=HazyGravy" alt="HazyGravy Header" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech&size=30&pause=1000&color=97BA01&center=true&vCenter=true&repeat=false&width=435&lines=HazyGravy" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -8,23 +8,29 @@
 
 ---
 
-### </> Programming
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech&size=25&pause=1000&color=63EAF7&repeat=false&width=435&lines=%3C%2F%3E+Programming" alt="Typing SVG" /></a>
 <p>
   <img src="https://skillicons.dev/icons?i=html,js,java,python,git,github,linux,raspberrypi" />
 </p>
 
-### </> Still in Development
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech&size=25&pause=1000&color=63EAF7&repeat=false&width=435&lines=%3C%2F%3E+Still+in+Development" alt="Typing SVG" /></a>
 <p>
   <img src="https://skillicons.dev/icons?i=c,cs,cpp,css,vscode,visualstudio,react,nextjs,nodejs,docker,tailwind" />
 </p>
 
-### </> Other
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech&size=25&pause=1000&color=63EAF7&repeat=false&width=435&lines=%3C%2F%3E+Other" alt="Typing SVG" /></a>
 <p>
   <img src="https://skillicons.dev/icons?i=ps,ae,redhat,ubuntu,kali,windows" />
 </p>
+
+---
+
+### 🧱 Log
+
+- Frontend/backend development
+- Penetration testing and cyber security
+- Developing a comprehensive lexicon of programming languages  
+- Focus: Language knowledge, development, improvement and a clean syntax
 
 ---
 
@@ -34,15 +40,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=HazyGravy&show_icons=true&hide_border=true&theme=merko" height="180em"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HazyGravy&hide_border=true&theme=merko&ring=FF4F4F&fire=FF4F4F" height="180em"/>
 </p>
-
----
-
-### 🧱 Log
-
-- Developing a comprehensive lexicon of programming languages  
-- Penetration testing and cyber security
-- Focus: Language knowledge, development, and a clean syntax
-- Frontend/backend development
 
 ---
 
