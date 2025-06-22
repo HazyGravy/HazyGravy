@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech&size=30&pause=1000&color=97BA01&center=true&vCenter=true&repeat=false&width=435&lines=HazyGravy" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech&size=30&duration=7000&pause=1000&color=97BA01&center=true&vCenter=true&repeat=false&width=435&lines=HazyGravy" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -8,20 +8,17 @@
 
 ---
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech&size=25&pause=1000&color=63EAF7&repeat=false&width=435&lines=%3C%2F%3E+Programming" alt="Typing SVG" /></a>
-<p>
+<p></p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech&size=25&duration=7000&pause=1000&color=63EAF7&repeat=false&width=435&lines=%3C%2F%3E+Programming" alt="Typing SVG" /></a>
   <img src="https://skillicons.dev/icons?i=html,js,java,python,git,github,linux,raspberrypi" />
-</p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech&size=25&pause=1000&color=63EAF7&repeat=false&width=435&lines=%3C%2F%3E+Still+in+Development" alt="Typing SVG" /></a>
-<p>
+<p></p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech&size=25&duration=7000&pause=1000&color=63EAF7&repeat=false&width=435&lines=%3C%2F%3E+Still+in+Development" alt="Typing SVG" /></a>
   <img src="https://skillicons.dev/icons?i=c,cs,cpp,css,vscode,visualstudio,react,nextjs,nodejs,docker,tailwind" />
-</p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech&size=25&pause=1000&color=63EAF7&repeat=false&width=435&lines=%3C%2F%3E+Other" alt="Typing SVG" /></a>
-<p>
+<p></p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech&size=25&duration=7000&pause=1000&color=63EAF7&repeat=false&width=435&lines=%3C%2F%3E+Other" alt="Typing SVG" /></a>
   <img src="https://skillicons.dev/icons?i=ps,ae,redhat,ubuntu,kali,windows" />
-</p>
 
 ---
 
