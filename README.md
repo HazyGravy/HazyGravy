@@ -26,12 +26,21 @@
 
 ---
 
-### 📄 Log
+### 🔍 Focus
 
+- Cyber security
 - Frontend/backend development
-- Penetration testing and cyber security
 - Developing a comprehensive lexicon of programming languages  
-- Focus: Language knowledge, development, improvement and a clean syntax
+- Program and script development
+
+---
+
+### 📄 Experience
+
+- 15+ Years experience with such Adobe programs as;<br>
+  Photoshop, Flash, After Effects, Dream Weaver, and Light Room
+- 10+ Experience with HTML, Java, JavaScript, Python, and Linux 
+- 5+ Years Cyber Security
 
 ---
 
