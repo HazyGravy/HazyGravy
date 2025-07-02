@@ -30,7 +30,7 @@
 
 - Cyber security
 - Frontend/backend development
-- Developing a comprehensive lexicon of programming languages  
+- Developing a lexicon of programming languages  
 - Program and script development
 
 ---
