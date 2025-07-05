@@ -26,24 +26,6 @@
 
 ---
 
-### 🔍 Focus
-
-- Cyber security
-- Frontend/backend development
-- Developing a lexicon of programming languages  
-- Program and script development
-
----
-
-### 📄 Experience
-
-- 15+ Years experience with such Adobe programs as;<br>
-  Photoshop, Flash, After Effects, Dream Weaver, and Light Room
-- 10+ Experience with HTML, Java, JavaScript, Python, and Linux 
-- 5+ Years Cyber Security
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
